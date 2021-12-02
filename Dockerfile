@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome:90.0-chromedriver-90.0-grid-4.0.0-beta-3-20210426
+FROM selenium/standalone-chrome:latest
 
 USER root
 
